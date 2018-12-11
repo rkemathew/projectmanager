@@ -10,3 +10,10 @@
     margin: 5px;
     text-align: center;
 }
+
+.remove-project {
+    display: inline-block;
+    margin: 5px;
+    color: red;
+    cursor: pointer;
+}
