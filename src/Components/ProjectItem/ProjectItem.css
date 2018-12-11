@@ -1,0 +1,12 @@
+.project-category, .project-title {
+    display: inline-block;
+    width: 200px;
+    margin: 5px;
+}
+
+.separator {
+    display: inline-block;
+    width: 30px;
+    margin: 5px;
+    text-align: center;
+}

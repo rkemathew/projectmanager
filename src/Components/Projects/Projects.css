@@ -1,0 +1,22 @@
+.hdr-category {
+    display: inline-block;
+    width: 150px;
+    margin: 5px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.hdr-title {
+    display: inline-block;
+    width: 150px;
+    margin: 5px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.separator {
+    display: inline-block;
+    width: 30px;
+    margin: 5px;
+    text-align: center;
+}
